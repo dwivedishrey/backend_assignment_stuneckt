@@ -3,13 +3,13 @@ import { getAnalytics } from "firebase/analytics";
 import {getAuth} from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAuUADRigS4ig8-S5sUHGdPcMRQYPIgSLI",
-  authDomain: "twiiter-application.firebaseapp.com",
-  projectId: "twiiter-application",
-  storageBucket: "twiiter-application.appspot.com",
-  messagingSenderId: "620402074433",
-  appId: "1:620402074433:web:57c0a5ab154668a51137c0",
-  measurementId: "G-XC0ZEDJDYD"
+  apiKey: "AIzaSyAn4uR5bLqbwlYEJbeVEwCv6HtJQyOOQms",
+  authDomain: "internship-9c8ab.firebaseapp.com",
+  projectId: "internship-9c8ab",
+  storageBucket: "internship-9c8ab.appspot.com",
+  messagingSenderId: "1040427776279",
+  appId: "1:1040427776279:web:6b79e45f2d2338ee409f52",
+  measurementId: "G-4ELX0H70SP"
 };
 
 // Initialize Firebase
